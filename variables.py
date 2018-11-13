@@ -1,0 +1,9 @@
+number=20
+name='john'
+salary=36.60
+print("number",number)
+print(name)
+a,b,c=2,4,'jahe'
+print(a)
+print(b)
+print(c)
